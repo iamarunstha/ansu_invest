@@ -1,0 +1,24 @@
+.title-background {
+	text-transform: uppercase;
+    font-size: 1em;
+    color: #212121;
+    padding: .5em 1em;
+    background: #EFEFEF;
+    margin-bottom: 1em;
+}
+
+#myTab1 li, #myTab li {
+    width: 33%;
+    text-align: center;
+}
+
+/*@media only screen and (min-width : 768px) {*/
+    .is-table-row {
+        display: table;
+    }
+    .is-table-row [class*="col-"] {
+        float: none;
+        display: table-cell;
+        vertical-align: top;
+    }
+/*}*/

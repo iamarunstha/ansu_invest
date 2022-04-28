@@ -1,0 +1,16 @@
+
+.btn-group .dropdown-menu li {
+	margin-left: 5px;
+}
+
+.btn-group .dropdown-menu li .a_submit_button{
+	color: red;
+}
+
+.btn-group .dropdown-menu li .set_top_news_button{
+	color: green;
+}
+
+.btn-group .dropdown-menu li .set_newsboard_button{
+	color: green;
+}
